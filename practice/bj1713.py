@@ -14,7 +14,7 @@ for i in range(T):
         for i in range(N):
             if older <= result[i][1]:
                 older = result[i][1]
-                print(i)
+                print(older)
             #print(older)
 
         result.append([num[i], i])
@@ -22,6 +22,5 @@ for i in range(T):
     else:
         result.append([num[i], i])
 
-#print(result)
 
 
