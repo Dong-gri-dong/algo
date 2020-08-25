@@ -21,6 +21,30 @@
   <component name="ChangeListManager">
     <list default="true" id="811e461a-877d-422b-8d12-9f2e2c8b643f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/200818/jo1303.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/200818/jo1304.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/200818/jo138.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/200818/jo146.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/200818/jo149.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/200818/jo165.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/200818/jo168.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/200818/jo1856.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/200818/jo2046.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/200824/4613_러시아.py" beforeDir="false" afterPath="$PROJECT_DIR$/200824/4613_러시아.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/200824/4864.문제해결 기본 3일차 - 문자열 비교.py" beforeDir="false" afterPath="$PROJECT_DIR$/200824/4864.문제해결 기본 3일차 - 문자열 비교.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/200824/pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/200824/pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/200825/bj2804.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/200825/bj2846.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/200825/input_data/bj_2804.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/200825/input_data/bj_2846.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/200825/jo_132.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/200825/jo_134.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/200825/jo_135.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/200825/jo_141.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/200825/jo_142.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/200825/jo_160.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/200825/jo_161.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/200825/jo_162.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,23 +67,44 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/200824" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/200825" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\shin\Desktop\dj0401_algorithm\200824" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shin\Desktop\dj0401_algorithm\200825" />
       <recent name="C:\Users\shin\Desktop\dj0401_algorithm\200824" />
       <recent name="C:\Users\shin\Desktop\dj0401_algorithm\200824\input_data" />
       <recent name="C:\Users\aclass\Desktop\dj0401_algorithm\200813" />
       <recent name="C:\Users\shin\Desktop\dj0401_algorithm\200807" />
-      <recent name="C:\Users\shin\Desktop\dj0401_algorithm\practice" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shin\Desktop\dj0401_algorithm\200824" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4864.문제해결 기본 3일차 - 문자열 비교">
-    <configuration name="4613_러시아 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1216.문제해결 기본 3일차 - 회문2">
+    <configuration name="1216.문제해결 기본 3일차 - 회문2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dj0401_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\shin\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/200825" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/200825/1216.문제해결 기본 3일차 - 회문2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4613_러시아" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dj0401_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4613_러시아" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4861.문제해결 기본 3일차 - 회문" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dj0401_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\shin\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/200824/input_data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/200825" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\shin\Desktop\dj0401_algorithm\200824\4613_러시아.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\shin\Desktop\dj0401_algorithm\200825\4861.문제해결 기본 3일차 - 회문.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4864.문제해결 기본 3일차 - 문자열 비교" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4865.문제해결 기본 3일차 - 글자수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dj0401_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +154,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\shin\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/200824" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/200825" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/200824/4864.문제해결 기본 3일차 - 문자열 비교.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/200825/4865.문제해결 기본 3일차 - 글자수.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="W 문제해결 기본 3일차 - 문자열 비교" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="7701" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dj0401_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,32 +175,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\shin\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/200824/4864.파이썬 S" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/200824/4864.파이썬 S/W 문제해결 기본 3일차 - 문자열 비교.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dj0401_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\shin\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/200824" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/200824/pattern.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/7701.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,19 +189,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.7701" />
       <item itemvalue="Python.4613_러시아" />
-      <item itemvalue="Python.4613_러시아 (1)" />
-      <item itemvalue="Python.pattern" />
-      <item itemvalue="Python.W 문제해결 기본 3일차 - 문자열 비교" />
-      <item itemvalue="Python.4864.문제해결 기본 3일차 - 문자열 비교" />
+      <item itemvalue="Python.4861.문제해결 기본 3일차 - 회문.py" />
+      <item itemvalue="Python.4865.문제해결 기본 3일차 - 글자수" />
+      <item itemvalue="Python.1216.문제해결 기본 3일차 - 회문2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4864.문제해결 기본 3일차 - 문자열 비교" />
-        <item itemvalue="Python.W 문제해결 기본 3일차 - 문자열 비교" />
-        <item itemvalue="Python.pattern" />
-        <item itemvalue="Python.4613_러시아 (1)" />
+        <item itemvalue="Python.1216.문제해결 기본 3일차 - 회문2" />
+        <item itemvalue="Python.4865.문제해결 기본 3일차 - 글자수" />
+        <item itemvalue="Python.4861.문제해결 기본 3일차 - 회문.py" />
         <item itemvalue="Python.4613_러시아" />
+        <item itemvalue="Python.7701" />
       </list>
     </recent_temporary>
   </component>
@@ -211,25 +235,25 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="938" height="370" key="GridCell.Tab.0.bottom" timestamp="1598255504073">
+    <state width="936" height="370" key="GridCell.Tab.0.bottom" timestamp="1598332097847">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1345" height="131" key="GridCell.Tab.0.bottom/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1596636473684" />
-    <state width="938" height="370" key="GridCell.Tab.0.bottom/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1598255504073" />
-    <state width="938" height="370" key="GridCell.Tab.0.center" timestamp="1598255504073">
+    <state width="936" height="370" key="GridCell.Tab.0.bottom/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1598332097847" />
+    <state width="936" height="370" key="GridCell.Tab.0.center" timestamp="1598332097847">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1345" height="131" key="GridCell.Tab.0.center/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1596636473684" />
-    <state width="938" height="370" key="GridCell.Tab.0.center/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1598255504073" />
-    <state width="938" height="370" key="GridCell.Tab.0.left" timestamp="1598255504073">
+    <state width="936" height="370" key="GridCell.Tab.0.center/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1598332097847" />
+    <state width="936" height="370" key="GridCell.Tab.0.left" timestamp="1598332097847">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1345" height="131" key="GridCell.Tab.0.left/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1596636473684" />
-    <state width="938" height="370" key="GridCell.Tab.0.left/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1598255504073" />
-    <state width="938" height="370" key="GridCell.Tab.0.right" timestamp="1598255504073">
+    <state width="936" height="370" key="GridCell.Tab.0.left/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1598332097847" />
+    <state width="936" height="370" key="GridCell.Tab.0.right" timestamp="1598332097847">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1345" height="131" key="GridCell.Tab.0.right/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1596636473684" />
-    <state width="938" height="370" key="GridCell.Tab.0.right/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1598255504073" />
+    <state width="936" height="370" key="GridCell.Tab.0.right/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1598332097847" />
   </component>
 </project>
