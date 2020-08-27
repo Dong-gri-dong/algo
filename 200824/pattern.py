@@ -46,7 +46,6 @@ def get_pi(pattern):
         #print(pi)
     return pi
 
-print(get_pi('AAAABBA'))
 
 
 def kmp(text, pattern):
@@ -101,6 +100,32 @@ def boi(t, p):
 
 
 
+def boi(t,p):
+    result = 0
+    s = p[::-1]
+    i = len(p)-1
+
+    while i < len(t):
+        nxt = len(s)
+        j=0
+        if s[j] == t[i]:
+            while j <len(s):
+                if s[j] != t[i-j]:
+                    break
+                j += 1
+            if j ==len(s):
+                result = 1
+        else:
+            while j < len(s):
+                if s[j] == t[i-j]:
+                    nxt = min(j, nxt)
+                    break
+                j += 1
+        if result == 1:
+            break
+
+        i += nxt
+    return result
 
 
 
@@ -113,4 +138,4 @@ pattern = 'rithm'
 
 # print(brute(text, pattern))
 # print(kmp(text, pattern))
-# print(boi(text, pattern))
+print(boi(text, pattern))

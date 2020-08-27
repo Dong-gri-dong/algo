@@ -3,7 +3,7 @@ import pprint
 sys.stdin = open('input_data/4861.txt')
 
 T = int(input())
-
+T = 1
 
 for t in range(1, 1+T):
     N, M = list(map(int, input().split()))
@@ -59,3 +59,4 @@ for t in range(1, 1+T):
         final += '{}'.format(i)
 
     print("#{} {}".format(t, final))
+

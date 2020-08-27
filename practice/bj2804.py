@@ -7,13 +7,17 @@ sys.stdin = open('input_data/bj_2804.txt')
 
 word = list(input().split())
 
-N = len(word[0])
-M = len(word[1])
+word[0], word[1] = word[1], word[0]
+
+
 
 for i in word[0]:
     if i in word[1]:
         idx = i
         break
+
+
+
 
 for i in range(M):
     for n in range(N):
