@@ -21,12 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="811e461a-877d-422b-8d12-9f2e2c8b643f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/200813/1244_최대상금.py" beforeDir="false" afterPath="$PROJECT_DIR$/200813/1244_최대상금.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/200824/pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/200824/pattern.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/200825/1216.문제해결 기본 3일차 - 회문2.py" beforeDir="false" afterPath="$PROJECT_DIR$/200825/1216.문제해결 기본 3일차 - 회문2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/200825/4861.문제해결 기본 3일차 - 회문.py" beforeDir="false" afterPath="$PROJECT_DIR$/200825/4861.문제해결 기본 3일차 - 회문.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/bj2804.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/bj2804.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/jo_160.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/jo_160.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +47,9 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shin\Desktop\dj0401_algorithm\200824" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\shin\Desktop\dj0401_algorithm\200827" />
       <recent name="C:\Users\shin\Desktop\dj0401_algorithm\practice" />
@@ -60,12 +57,9 @@
       <recent name="C:\Users\shin\Desktop\dj0401_algorithm\200825" />
       <recent name="C:\Users\shin\Desktop\dj0401_algorithm\200824" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\shin\Desktop\dj0401_algorithm\200824" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.4871[파이썬문제해결 기본] 4일차 - 그래프경로">
-    <configuration name="4866[파이썬문제해결 기본] 4일차 - 괄호검사" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1211_문제해결 기본2일차 - Ladder2">
+    <configuration name="1211_문제해결 기본2일차 - Ladder2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dj0401_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,7 +71,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/200827/4866[파이썬문제해결 기본] 4일차 - 괄호검사.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/200827/1211_문제해결 기본2일차 - Ladder2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4869[파이썬문제해결 기본] 4일차 - 종이붙이기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2817" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dj0401_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\shin\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/200827" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/200827/4869[파이썬문제해결 기본] 4일차 - 종이붙이기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2817.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4871[파이썬문제해결 기본] 4일차 - 그래프경로" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4047" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dj0401_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +109,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\shin\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/200827" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/200827/4871[파이썬문제해결 기본] 4일차 - 그래프경로.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/4047.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4873[파이썬문제해결 기본] 4일차 - 반복문자지우기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5515" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dj0401_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,11 +130,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\shin\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/200827" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/200827/4873[파이썬문제해결 기본] 4일차 - 반복문자지우기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/5515.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5948" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dj0401_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,11 +151,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\shin\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/200824" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/200824/pattern.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/5948.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,19 +165,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.4869[파이썬문제해결 기본] 4일차 - 종이붙이기" />
-      <item itemvalue="Python.4866[파이썬문제해결 기본] 4일차 - 괄호검사" />
-      <item itemvalue="Python.pattern" />
-      <item itemvalue="Python.4871[파이썬문제해결 기본] 4일차 - 그래프경로" />
-      <item itemvalue="Python.4873[파이썬문제해결 기본] 4일차 - 반복문자지우기" />
+      <item itemvalue="Python.1211_문제해결 기본2일차 - Ladder2" />
+      <item itemvalue="Python.2817" />
+      <item itemvalue="Python.4047" />
+      <item itemvalue="Python.5515" />
+      <item itemvalue="Python.5948" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4871[파이썬문제해결 기본] 4일차 - 그래프경로" />
-        <item itemvalue="Python.4873[파이썬문제해결 기본] 4일차 - 반복문자지우기" />
-        <item itemvalue="Python.pattern" />
-        <item itemvalue="Python.4866[파이썬문제해결 기본] 4일차 - 괄호검사" />
-        <item itemvalue="Python.4869[파이썬문제해결 기본] 4일차 - 종이붙이기" />
+        <item itemvalue="Python.1211_문제해결 기본2일차 - Ladder2" />
+        <item itemvalue="Python.4047" />
+        <item itemvalue="Python.5515" />
+        <item itemvalue="Python.5948" />
+        <item itemvalue="Python.2817" />
       </list>
     </recent_temporary>
   </component>
@@ -213,33 +207,46 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="WindowStateProjectService">
-    <state width="938" height="322" key="GridCell.Tab.0.bottom" timestamp="1598496118437">
+    <state x="1197" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598498354034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1197" y="320" key="#com.intellij.fileTypes.FileTypeChooser/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1598498354034" />
+    <state width="1899" height="322" key="GridCell.Tab.0.bottom" timestamp="1598531622172">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1345" height="187" key="GridCell.Tab.0.bottom/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1598490973560" />
-    <state width="938" height="322" key="GridCell.Tab.0.bottom/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1598496118437" />
-    <state width="938" height="322" key="GridCell.Tab.0.center" timestamp="1598496118437">
+    <state width="1899" height="322" key="GridCell.Tab.0.bottom/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1598531622172" />
+    <state width="1899" height="322" key="GridCell.Tab.0.center" timestamp="1598531622172">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1345" height="187" key="GridCell.Tab.0.center/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1598490973560" />
-    <state width="938" height="322" key="GridCell.Tab.0.center/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1598496118437" />
-    <state width="938" height="322" key="GridCell.Tab.0.left" timestamp="1598496118437">
+    <state width="1899" height="322" key="GridCell.Tab.0.center/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1598531622172" />
+    <state width="1899" height="322" key="GridCell.Tab.0.left" timestamp="1598531622171">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1345" height="187" key="GridCell.Tab.0.left/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1598490973560" />
-    <state width="938" height="322" key="GridCell.Tab.0.left/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1598496118437" />
-    <state width="938" height="322" key="GridCell.Tab.0.right" timestamp="1598496118437">
+    <state width="1899" height="322" key="GridCell.Tab.0.left/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1598531622171" />
+    <state width="1899" height="322" key="GridCell.Tab.0.right" timestamp="1598531622172">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1345" height="187" key="GridCell.Tab.0.right/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1598490973560" />
-    <state width="938" height="322" key="GridCell.Tab.0.right/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1598496118437" />
-    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1598437371266">
+    <state width="1899" height="322" key="GridCell.Tab.0.right/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1598531622172" />
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1598502936121">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1598437371266" />
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1598502936121" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="NONE" type="python-line">
+          <url>file://$PROJECT_DIR$/practice/2817.py</url>
+          <line>4</line>
+          <log-expression expression="sums += arr[j]&#10;&#10;        if sums == K:&#10;            count += 1&#10;&#10;    print('#{} {}'.format(test_case, count))" language="Python" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
