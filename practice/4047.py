@@ -5,32 +5,37 @@ sys.stdin = open('input_data/4047.txt')
 T = int(input())
 
 
-my_dict ={
-    'S' : 0, 'D' : 1,
-    'H' : 2, 'C' : 3
-}
 for test_case in range(1, T+1):
-    my_arr = [[0] * 13 for _ in range(4)]
     result = 1
 
+    my_dict = {
+        'S': 13, 'D': 13,
+        'H': 13, 'C': 13
+    }
 
     N = input()
+    new_N = []
+    for i in range(int(len(N)//3)):
+        new_N.append(N[(3*i): (3*i)+3])
 
-    for i in range(4):
+
+    if len(list(new_N)) != len(set(new_N)):
+        result = "ERROR"
 
 
+    for i in new_N:
+        my_dict[i[0]] -= 1
 
-        if my_arr[ my_dict[str(N[3*i])] ][ int(N[(3*i)+1:(3*i)+3])] == 0:
-            my_arr[my_dict[str(N[3 * i])]][int(N[(3 * i) + 1:(3 * i) + 3])] = 1
-        else:
-            result = 0
-            break
+    print('#{}'.format(test_case), end=' ')
 
-    print('#{}'.format(test_case), end=" ")
-    if not result:
-        print('ERROR', end="")
+    if result == 1:
+        for i in my_dict.values():
+            print(i, end=' ')
+        print()
     else:
-        for i in range(4):
-            print(13 - sum(my_arr[i]), end =" ")
-    print()
+        print(result)
+
+
+
+
 
