@@ -32,3 +32,7 @@ for test_case in range(1, T+1):
     print('#{} {}'.format(test_case, sorted(list(set(part)), reverse= True)[4]))
 
 
+
+for i in range(total):
+    for j in range(n):
+        if i &(1<<j)
