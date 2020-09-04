@@ -22,6 +22,8 @@ for i in range(num):
 c.sort(reverse=True) # a
 d.sort(reverse=True) # b
 
+print(c)
+print(d)
 
 x = []
 y = []
