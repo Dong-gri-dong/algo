@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -21,7 +24,12 @@
   <component name="ChangeListManager">
     <list default="true" id="811e461a-877d-422b-8d12-9f2e2c8b643f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/1267_작업순서.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/1267_작업순서.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/200826/1210_문제해결 기본2일차 - Ladder1.py" beforeDir="false" afterPath="$PROJECT_DIR$/200826/1210_문제해결 기본2일차 - Ladder1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/200908/7465_창용마을무리의개수.py" beforeDir="false" afterPath="$PROJECT_DIR$/200908/7465_창용마을무리의개수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/200909-10/1231_중위순회.py" beforeDir="false" afterPath="$PROJECT_DIR$/200909-10/1231_중위순회.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/200909-10/5176_이진탐색.py" beforeDir="false" afterPath="$PROJECT_DIR$/200909-10/5176_이진탐색.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2806.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2806.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,10 +52,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/practice" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/201020/input_data" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shin\Desktop\dj0401_algorithm\200824" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\shin\Desktop\dj0401_algorithm\practice" />
       <recent name="C:\Users\shin\Desktop\dj0401_algorithm\200908" />
@@ -55,12 +67,9 @@
       <recent name="C:\Users\shin\Desktop\dj0401_algorithm\practice\input_data" />
       <recent name="C:\Users\shin\Desktop\dj0401_algorithm\200901" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\shin\Desktop\dj0401_algorithm\200824" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.5178_노드의합">
-    <configuration name="1232_사칙연산" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.5105_미로의거리">
+    <configuration name="상호의배트필드" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dj0401_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,11 +77,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/200909-10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/201020" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/200909-10/1232_사칙연산.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/201020/상호의배트필드.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4012_요리사" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10888_음식배달" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dj0401_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,7 +102,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/4012_요리사.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/10888_음식배달.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5176_이진탐색" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5105_미로의거리" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dj0401_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,11 +119,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/200909-10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/200909-10/5176_이진탐색.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/5105_미로의거리.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5177_이진힙" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="모의_특이한자석" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dj0401_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +140,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/200909-10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/201020" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/200909-10/5177_이진힙.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/201020/모의_특이한자석.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5178_노드의합" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ascii" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dj0401_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,11 +161,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/200909-10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/200909-10/5178_노드의합.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/ascii.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,19 +175,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.4012_요리사" />
-      <item itemvalue="Python.5176_이진탐색" />
-      <item itemvalue="Python.5177_이진힙" />
-      <item itemvalue="Python.1232_사칙연산" />
-      <item itemvalue="Python.5178_노드의합" />
+      <item itemvalue="Python.ascii" />
+      <item itemvalue="Python.10888_음식배달" />
+      <item itemvalue="Python.모의_특이한자석" />
+      <item itemvalue="Python.상호의배트필드" />
+      <item itemvalue="Python.5105_미로의거리" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.5178_노드의합" />
-        <item itemvalue="Python.5176_이진탐색" />
-        <item itemvalue="Python.1232_사칙연산" />
-        <item itemvalue="Python.5177_이진힙" />
-        <item itemvalue="Python.4012_요리사" />
+        <item itemvalue="Python.5105_미로의거리" />
+        <item itemvalue="Python.상호의배트필드" />
+        <item itemvalue="Python.모의_특이한자석" />
+        <item itemvalue="Python.10888_음식배달" />
+        <item itemvalue="Python.ascii" />
       </list>
     </recent_temporary>
   </component>
@@ -209,34 +218,35 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1197" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599544499214">
+    <state x="1197" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603067110582">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1197" y="320" key="#com.intellij.fileTypes.FileTypeChooser/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1599544499214" />
-    <state width="938" height="2" key="GridCell.Tab.0.bottom" timestamp="1599724043711">
+    <state x="-514" y="393" key="#com.intellij.fileTypes.FileTypeChooser/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1599899847408" />
+    <state x="1197" y="320" key="#com.intellij.fileTypes.FileTypeChooser/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603067110582" />
+    <state width="936" height="287" key="GridCell.Tab.0.bottom" timestamp="1603175950790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1345" height="241" key="GridCell.Tab.0.bottom/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1599129498998" />
-    <state width="938" height="2" key="GridCell.Tab.0.bottom/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1599724043711" />
-    <state width="938" height="2" key="GridCell.Tab.0.center" timestamp="1599724043710">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1602136458264" />
+    <state width="936" height="287" key="GridCell.Tab.0.bottom/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603175950790" />
+    <state width="936" height="287" key="GridCell.Tab.0.center" timestamp="1603175950790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1345" height="241" key="GridCell.Tab.0.center/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1599129498998" />
-    <state width="938" height="2" key="GridCell.Tab.0.center/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1599724043710" />
-    <state width="938" height="2" key="GridCell.Tab.0.left" timestamp="1599724043709">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1602136458264" />
+    <state width="936" height="287" key="GridCell.Tab.0.center/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603175950790" />
+    <state width="936" height="287" key="GridCell.Tab.0.left" timestamp="1603175950790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1345" height="241" key="GridCell.Tab.0.left/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1599129498998" />
-    <state width="938" height="2" key="GridCell.Tab.0.left/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1599724043709" />
-    <state width="938" height="2" key="GridCell.Tab.0.right" timestamp="1599724043711">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1602136458264" />
+    <state width="936" height="287" key="GridCell.Tab.0.left/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603175950790" />
+    <state width="936" height="287" key="GridCell.Tab.0.right" timestamp="1603175950790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1345" height="241" key="GridCell.Tab.0.right/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1599129498998" />
-    <state width="938" height="2" key="GridCell.Tab.0.right/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1599724043711" />
-    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1598933634186">
+    <state width="1345" height="179" key="GridCell.Tab.0.right/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1602136458264" />
+    <state width="936" height="287" key="GridCell.Tab.0.right/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603175950790" />
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1603174701213">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1598933634186" />
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603174701213" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -252,6 +262,12 @@
           <line>6</line>
           <log-expression expression="return Q[front]&#10;&#10;    data = list(map(int, (input().split())))&#10;    for i in data:&#10;        enQ(i)&#10;    for i in range(M):&#10;        enQ(deQ())&#10;    print('#{} {}'.format(test_case, Q[0]))" language="Python" />
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="NONE" type="python-line">
+          <url>file://$PROJECT_DIR$/practice/bj_7576_토마토.py</url>
+          <line>5</line>
+          <log-expression expression="visit[ty][tx] = visit[y][x] + 1&#10;            Q.append([ty, tx])&#10;            if day &lt; visit[ty][tx]:&#10;                day = visit[ty][tx]&#10;&#10;        count = 0&#10;        for i in visit:&#10;            if 0 in i:&#10;                break&#10;        else:&#10;            return&#10;day = 0&#10;for y in range(N):&#10;    for x in range(M):&#10;        bfs(y, x)&#10;&#10;print(day-1)" language="Python" />
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

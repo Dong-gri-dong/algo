@@ -17,6 +17,7 @@ for test_case in range(1, T+1):
         G[s].append(e)
         G[e].append(s)
 
+    print(G)
 
     count = 0
 
