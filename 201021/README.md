@@ -1,3 +1,11 @@
+```
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+```
+
+```
+![equation](https://latex.codecogs.com/gif.latex?1%2Bsin%28mc%5E2%29%0D%0A)
+```
+
 # 1. 논리와 증명
 
 
@@ -12,7 +20,7 @@ $$
 
 
 
-![](img\1_2.png)
+![](./img/1_2.png)
 
 
 
@@ -375,8 +383,10 @@ T(n)= \sqrt{n} \cdot T(\sqrt{n})+n
  \\.
  \\= n^{2^k-1 \over 2^k}T(n^{1 \over 2^k})+n+n+n+...+n
  \\n^{1 \over 2^k}=2 
- \\ n=2^{logn}
-
+ \\ logn^{1 \over 2^k}=1
+ \\ {1 \over 2^k}logn = 1
+ \\ logn = 2^k
+ \\ log(logn) = k
 
   \\
 $$
@@ -395,3 +405,11 @@ $$
  
 
 ![](img\5_6.png)
+
+
+
+
+
+# 6.  동적 프로그래밍
+
+![](img\6_3_1.png)
