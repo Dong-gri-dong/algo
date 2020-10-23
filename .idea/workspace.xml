@@ -24,6 +24,25 @@
   <component name="ChangeListManager">
     <list default="true" id="811e461a-877d-422b-8d12-9f2e2c8b643f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/201021/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/201021/img/1_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/201021/img/1_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/201021/img/1_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/201021/img/1_4_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/201021/img/1_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/201021/img/1_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/201021/img/1_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/201021/img/2_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/201021/img/2_22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/201021/img/2_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/201021/img/2_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/201021/img/2_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/201021/img/3_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/201021/img/3_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/201021/img/4_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/201021/img/5_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/201021/img/6_3_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/bj_5427_불.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/bj_5427_불.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +81,7 @@
       <recent name="C:\Users\shin\Desktop\dj0401_algorithm\200908\input_data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Algo1_대전_1반_신동현">
+  <component name="RunManager" selected="Python.bj_5427_불">
     <configuration name="1859_백만장자프로젝트" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dj0401_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,27 +145,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="최빈수구하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dj0401_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/최빈수구하기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Algo1_대전_1반_신동현" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dj0401_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,20 +166,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="bj_5427_불" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dj0401_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/bj_5427_불.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.최빈수구하기" />
       <item itemvalue="Python.1974_스토쿠검증" />
       <item itemvalue="Python.1974_스토쿠검증 (1)" />
       <item itemvalue="Python.1859_백만장자프로젝트" />
       <item itemvalue="Python.Algo1_대전_1반_신동현" />
+      <item itemvalue="Python.bj_5427_불" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bj_5427_불" />
         <item itemvalue="Python.Algo1_대전_1반_신동현" />
         <item itemvalue="Python.1859_백만장자프로젝트" />
         <item itemvalue="Python.1974_스토쿠검증" />
         <item itemvalue="Python.1974_스토쿠검증 (1)" />
-        <item itemvalue="Python.최빈수구하기" />
       </list>
     </recent_temporary>
   </component>
@@ -217,26 +236,26 @@
     </state>
     <state x="-514" y="393" key="#com.intellij.fileTypes.FileTypeChooser/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1599899847408" />
     <state x="1197" y="320" key="#com.intellij.fileTypes.FileTypeChooser/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603067110582" />
-    <state width="1899" height="287" key="GridCell.Tab.0.bottom" timestamp="1603290134662">
+    <state width="1899" height="287" key="GridCell.Tab.0.bottom" timestamp="1603372170102">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.bottom/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1602136458264" />
-    <state width="1899" height="287" key="GridCell.Tab.0.bottom/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603290134662" />
-    <state width="1899" height="287" key="GridCell.Tab.0.center" timestamp="1603290134662">
+    <state width="1899" height="287" key="GridCell.Tab.0.bottom/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603372170102" />
+    <state width="1899" height="287" key="GridCell.Tab.0.center" timestamp="1603372170102">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.center/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1602136458264" />
-    <state width="1899" height="287" key="GridCell.Tab.0.center/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603290134662" />
-    <state width="1899" height="287" key="GridCell.Tab.0.left" timestamp="1603290134661">
+    <state width="1899" height="287" key="GridCell.Tab.0.center/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603372170102" />
+    <state width="1899" height="287" key="GridCell.Tab.0.left" timestamp="1603372170102">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.left/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1602136458264" />
-    <state width="1899" height="287" key="GridCell.Tab.0.left/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603290134661" />
-    <state width="1899" height="287" key="GridCell.Tab.0.right" timestamp="1603290134662">
+    <state width="1899" height="287" key="GridCell.Tab.0.left/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603372170102" />
+    <state width="1899" height="287" key="GridCell.Tab.0.right" timestamp="1603372170102">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.right/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1602136458264" />
-    <state width="1899" height="287" key="GridCell.Tab.0.right/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603290134662" />
+    <state width="1899" height="287" key="GridCell.Tab.0.right/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603372170102" />
     <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1603273974510">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
