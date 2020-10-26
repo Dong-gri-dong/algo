@@ -24,7 +24,6 @@ sys.stdin = open("input_data/1486.txt")
 #
 #                 keep.append(a)
 #
-#
 #         else:
 #             # k번째 선택
 #             A[k] = 1
