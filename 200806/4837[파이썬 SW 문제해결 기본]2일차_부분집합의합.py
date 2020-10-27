@@ -12,7 +12,11 @@ for t in range(1, T + 1):
     for i in range(1<<len(arr)):
         result = []
         for j in range(len(arr)):
+
             if i &(1<<j):
+                #print(i, 1<<j)
+                #print(i &(1<<j))
+                #print()
                 result.append(arr[j])
                 #print(arr[j], end=' ')
         if sum(result) == spec[1] and len(result) == spec[0]:

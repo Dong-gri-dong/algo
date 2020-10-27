@@ -22,12 +22,11 @@ hidden2num = {
     '1213': 8,
     '3112': 9
 }
-
+T = 1
 for test_case in range(1, T+1):
     final = []
     last = []
     N, M = map(int, input().split())
-
     arrs = [input() for _ in range(N)]
 
     codes = []
@@ -38,148 +37,69 @@ for test_case in range(1, T+1):
                 break
     # 코드가 있는 줄을 담음
     codes = list(set(codes))
-    total_num = len(codes)
+    new_codes = []
+    for code in codes[100:101]:
 
-
-    check_list =[]
-    for code in codes:
-        new_arr = ''
-        for i in code:
-            if i in alpha_16:
-                new_arr += bin(alpha_16[i])[2:]
-            else:
-                temp = bin(int(i))[2:]
-                while len(temp) < 4:
-                    temp = '0'+ temp
-                new_arr += temp
-        check_list.append(new_arr)
-    # 16진수를 2진수로 바꿔줌
-    codes = check_list
-
-
-    for i in range(total_num):
-        start = 0
-        end = 0
-        for j in range(len(codes[i])):
-            if codes[i][j] == '1':
-                end = j
-        for j in range(len(codes[i])):
-            if codes[i][j] == '1':
-                start = j
-                break
-
-
-        check_code = codes[i][start:end + 1]
-        num = (len(check_code)//56)+1
-        while len(check_code) < 56 * num:
-            check_code = '0' + check_code
-
-
-        checks = []
+        count = 0
         temp = ''
-        for j in range(0, len(check_code)):
-            temp += check_code[j]
-            if j % (7*num) == (7*num)-1:
-                checks.append(temp)
-                temp = ''
+        for i in code:
+            if i != '0' and count > 5:
+                new_codes.append(temp)
+                temp =''
+                count = 0
+            elif i == '0':
+                count += 1
+            elif i != '0':
+                count = 0
+            temp += i
+
+        codes = new_codes
+        new_codes =[]
+
+        for code in codes:
+            for i in range(1, len(code)):
+                if code[-i] != '0':
+                    new_codes.append(code[:(len(code)-i)+1])
+                    break
 
 
-        hidden = []
-        for i in range(len(checks)):
-            count = 0
-            now_num = 0
-            temp = ''
-            for j in range(len(checks[i])):
-                #checks[i][j]
-                if now_num == int(checks[i][j]):
-                    count += 1
-                    if j == (7*num)-1:
-                        temp += str(count//num)
+        codes = new_codes
+
+        check_list =[]
+        for code in codes:
+            new_arr = ''
+            for i in code:
+                if i in alpha_16:
+                    new_arr += bin(alpha_16[i])[2:]
                 else:
-                    temp += str(count//num)
-                    now_num = int(checks[i][j])
-                    count = 1
-                    if j == (7*num)-1:
-                        temp += str(count//num)
-            hidden.append(temp)
+                    temp = bin(int(i))[2:]
+                    while len(temp) < 4:
+                        temp = '0'+ temp
+                    new_arr += temp
+            check_list.append(new_arr)
+        # 16진수를 2진수로 바꿔줌
 
-        final_num = []
-        for i in hidden:
-            final_num.append(hidden2num[i])
-
-        a = 0
-        b = 0
-        for i in range(0, len(final_num)):
-            if (i + 1) % 2:
-                a += final_num[i]
-            else:
-                b += final_num[i]
-
-        final.append(a * 3 + b)
-        last.append(a+b)
+        codes = check_list
+        new_codes =[]
 
 
-    last_idx = []
-    for i in range(len(final)):
-        if not final[i] % 10:
-            last_idx.append(i)
-    result = 0
-    for i in last_idx:
-        result += last[i]
-    print("#{} {}".format(test_case, result))
+        for code in codes:
+            for i in range(1, len(code)):
+                if code[-i] != '0':
+                    new_codes.append(code[:(len(code)-i)+1])
+                    break
 
 
+        codes = new_codes
 
 
+        for code in codes:
+            print(code)
+            print()
+            for i in range(1,8):
+                if i == 1:
+                    print(code[-7 * i:])
+                else:
+                    print(code[-7*i:-7*(i-1)])
 
-
-
-
-
-
-
-
-
-    # for i in range(len(check_list)):
-    #     num = (len(check_list[i])//57) +1
-    #     while len(check_list[i]) < (56*num):
-    #         check_list[i] = '0'+check_list[i]
-    #
-    # check_number = [[] for _ in range(len(check_list))]
-    #
-    # for i in range(len(check_list)):
-    #
-    #     num = (len(check_list[i]) // 56)
-    #     print(num)
-    #     temp = ''
-    #     for j in range(0, len(check_list[i])):
-    #         temp += check_list[i][j]
-    #         if j % (7*num) == (7*num)-1:
-    #             check_number[i].append(temp)
-    #             print(temp)
-    #             temp = ''
-    #
-    # print(check_number)
-
-
-    # final_num = []
-    #
-    # for i in hidden:
-    #     final_num.append(hidden2num[i])
-    #
-    #
-    # a = 0
-    # b = 0
-    # for i in range(0, len(final_num)):
-    #     if (i+1) % 2:
-    #         a += final_num[i]
-    #     else:
-    #         b += final_num[i]
-    #
-    #
-    #
-    # if (a*3+b) % 10:
-    #     print('#{} 0'.format(test_case))
-    # else:
-    #     print('#{} {}'.format(test_case, sum(final_num)))
 
