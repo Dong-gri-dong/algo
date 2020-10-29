@@ -21,12 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="843aeb75-afd9-452a-ab07-56b6b84bed0b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../200826/1210_문제해결 기본2일차 - Ladder1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../200826/1210_문제해결 기본2일차 - Ladder1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../200908/7465_창용마을무리의개수.py" beforeDir="false" afterPath="$PROJECT_DIR$/../200908/7465_창용마을무리의개수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../200909-10/1231_중위순회.py" beforeDir="false" afterPath="$PROJECT_DIR$/../200909-10/1231_중위순회.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../200909-10/5176_이진탐색.py" beforeDir="false" afterPath="$PROJECT_DIR$/../200909-10/5176_이진탐색.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2806.py" beforeDir="false" afterPath="$PROJECT_DIR$/2806.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1227_미로2.py" beforeDir="false" afterPath="$PROJECT_DIR$/1227_미로2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +49,28 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.prac">
+  <component name="RunManager" selected="Python.6109_추억의 2048게임">
+    <configuration name="10726_이진수표현" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10726_이진수표현.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1865_동철이의 일 분배" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,6 +92,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="6109_추억의 2048게임" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6109_추억의 2048게임.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="angle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,27 +126,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/angle.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="arr2string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arr2string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,10 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.6109_추억의 2048게임" />
+        <item itemvalue="Python.10726_이진수표현" />
         <item itemvalue="Python.prac" />
         <item itemvalue="Python.1865_동철이의 일 분배" />
         <item itemvalue="Python.angle" />
-        <item itemvalue="Python.arr2string" />
       </list>
     </recent_temporary>
   </component>
@@ -171,26 +189,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1362" height="263" key="GridCell.Tab.0.bottom" timestamp="1601276967524">
+    <state width="938" height="284" key="GridCell.Tab.0.bottom" timestamp="1603896948921">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1345" height="178" key="GridCell.Tab.0.bottom/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1599407697279" />
-    <state width="1362" height="263" key="GridCell.Tab.0.bottom/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601276967524" />
-    <state width="1362" height="263" key="GridCell.Tab.0.center" timestamp="1601276967524">
+    <state width="938" height="284" key="GridCell.Tab.0.bottom/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603896948921" />
+    <state width="938" height="284" key="GridCell.Tab.0.center" timestamp="1603896948921">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1345" height="178" key="GridCell.Tab.0.center/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1599407697279" />
-    <state width="1362" height="263" key="GridCell.Tab.0.center/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601276967524" />
-    <state width="1362" height="263" key="GridCell.Tab.0.left" timestamp="1601276967524">
+    <state width="938" height="284" key="GridCell.Tab.0.center/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603896948921" />
+    <state width="938" height="284" key="GridCell.Tab.0.left" timestamp="1603896948921">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1345" height="178" key="GridCell.Tab.0.left/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1599407697279" />
-    <state width="1362" height="263" key="GridCell.Tab.0.left/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601276967524" />
-    <state width="1362" height="263" key="GridCell.Tab.0.right" timestamp="1601276967524">
+    <state width="938" height="284" key="GridCell.Tab.0.left/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603896948921" />
+    <state width="938" height="284" key="GridCell.Tab.0.right" timestamp="1603896948921">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1345" height="178" key="GridCell.Tab.0.right/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1599407697279" />
-    <state width="1362" height="263" key="GridCell.Tab.0.right/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601276967524" />
+    <state width="938" height="284" key="GridCell.Tab.0.right/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603896948921" />
     <state x="525" y="175" key="SettingsEditor" timestamp="1601276634467">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

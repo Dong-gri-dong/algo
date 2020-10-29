@@ -24,10 +24,7 @@
   <component name="ChangeListManager">
     <list default="true" id="811e461a-877d-422b-8d12-9f2e2c8b643f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/200806/4837[파이썬 SW 문제해결 기본]2일차_부분집합의합.py" beforeDir="false" afterPath="$PROJECT_DIR$/200806/4837[파이썬 SW 문제해결 기본]2일차_부분집합의합.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201027/input_data/암호코드스캔.txt" beforeDir="false" afterPath="$PROJECT_DIR$/201027/input_data/암호코드스캔.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/201027/암호코드스캔.py" beforeDir="false" afterPath="$PROJECT_DIR$/201027/암호코드스캔.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/bj_2479_경로찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/bj_2479_경로찾기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/1227_미로2.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/1227_미로2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,86 +48,23 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/201027" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/201020/input_data" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\shin\Desktop\dj0401_algorithm\200824" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\aclass\Desktop\dj0401_algorithm\201027" />
       <recent name="C:\Users\shin\Desktop\dj0401_algorithm\201020\input_data" />
       <recent name="C:\Users\shin\Desktop\dj0401_algorithm\201020" />
       <recent name="C:\Users\shin\Desktop\dj0401_algorithm\practice" />
       <recent name="C:\Users\shin\Desktop\dj0401_algorithm\200908" />
+      <recent name="C:\Users\shin\Desktop\dj0401_algorithm\200908\input_data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shin\Desktop\dj0401_algorithm\200824" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.bj_2479_경로찾기">
-    <configuration name="암호코드스캔" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dj0401_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/201027" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/201027/암호코드스캔.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4837[파이썬 SW 문제해결 기본]2일차_부분집합의합" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dj0401_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/200806" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/200806/4837[파이썬 SW 문제해결 기본]2일차_부분집합의합.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="암호코드스캔_보관" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dj0401_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/201027" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/201027/암호코드스캔_보관.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="bit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1227_미로2">
+    <configuration name="1227_미로2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dj0401_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,7 +76,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/bit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/1227_미로2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +85,49 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bj_2479_경로찾기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="순열" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dj0401_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/201028" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/201028/순열.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="5203_베이비진" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dj0401_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/201028" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/201028/5203_베이비진.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getmin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dj0401_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,7 +139,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/bj_2479_경로찾기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/getmin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="perm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dj0401_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/201028" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/201028/perm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,19 +170,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.암호코드스캔" />
-      <item itemvalue="Python.bit" />
-      <item itemvalue="Python.4837[파이썬 SW 문제해결 기본]2일차_부분집합의합" />
-      <item itemvalue="Python.암호코드스캔_보관" />
-      <item itemvalue="Python.bj_2479_경로찾기" />
+      <item itemvalue="Python.5203_베이비진" />
+      <item itemvalue="Python.getmin" />
+      <item itemvalue="Python.perm" />
+      <item itemvalue="Python.순열" />
+      <item itemvalue="Python.1227_미로2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.bj_2479_경로찾기" />
-        <item itemvalue="Python.암호코드스캔" />
-        <item itemvalue="Python.암호코드스캔_보관" />
-        <item itemvalue="Python.bit" />
-        <item itemvalue="Python.4837[파이썬 SW 문제해결 기본]2일차_부분집합의합" />
+        <item itemvalue="Python.1227_미로2" />
+        <item itemvalue="Python.순열" />
+        <item itemvalue="Python.perm" />
+        <item itemvalue="Python.5203_베이비진" />
+        <item itemvalue="Python.getmin" />
       </list>
     </recent_temporary>
   </component>
@@ -221,30 +218,30 @@
     </state>
     <state x="-514" y="393" key="#com.intellij.fileTypes.FileTypeChooser/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1599899847408" />
     <state x="1197" y="320" key="#com.intellij.fileTypes.FileTypeChooser/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603067110582" />
-    <state width="936" height="279" key="GridCell.Tab.0.bottom" timestamp="1603788955938">
+    <state width="938" height="283" key="GridCell.Tab.0.bottom" timestamp="1603881558919">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.bottom/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1602136458264" />
-    <state width="938" height="283" key="GridCell.Tab.0.bottom/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603729228559" />
-    <state width="936" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603788955938" />
-    <state width="936" height="279" key="GridCell.Tab.0.center" timestamp="1603788955938">
+    <state width="938" height="283" key="GridCell.Tab.0.bottom/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603881558919" />
+    <state width="938" height="283" key="GridCell.Tab.0.center" timestamp="1603881558919">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.center/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1602136458264" />
-    <state width="938" height="283" key="GridCell.Tab.0.center/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603729228559" />
-    <state width="936" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603788955938" />
-    <state width="936" height="279" key="GridCell.Tab.0.left" timestamp="1603788955938">
+    <state width="938" height="283" key="GridCell.Tab.0.center/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603881558919" />
+    <state width="938" height="283" key="GridCell.Tab.0.left" timestamp="1603881558919">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.left/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1602136458264" />
-    <state width="938" height="283" key="GridCell.Tab.0.left/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603729228558" />
-    <state width="936" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603788955938" />
-    <state width="936" height="279" key="GridCell.Tab.0.right" timestamp="1603788955938">
+    <state width="938" height="283" key="GridCell.Tab.0.left/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603881558919" />
+    <state width="938" height="283" key="GridCell.Tab.0.right" timestamp="1603881558919">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.right/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1602136458264" />
-    <state width="938" height="283" key="GridCell.Tab.0.right/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603729228559" />
-    <state width="936" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603788955938" />
+    <state width="938" height="283" key="GridCell.Tab.0.right/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603881558919" />
+    <state x="922" y="164" key="SettingsEditor" timestamp="1603878494637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="164" key="SettingsEditor/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603878494637" />
     <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1603426158205">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
