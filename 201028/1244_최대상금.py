@@ -31,6 +31,8 @@ for test_case in range(1, T+1):
                         arrs[i], arrs[j] = arrs[j], arrs[i]
 
 
+
+
     result = 0
     money(0, N)
     print('#{} {}'.format(test_case, result))
