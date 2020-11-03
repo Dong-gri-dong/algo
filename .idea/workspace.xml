@@ -24,6 +24,12 @@
   <component name="ChangeListManager">
     <list default="true" id="811e461a-877d-422b-8d12-9f2e2c8b643f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/201028/1244_최대상금.py" beforeDir="false" afterPath="$PROJECT_DIR$/201028/1244_최대상금.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/1219_길찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/1219_길찾기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/1865_동철이의 일 분배.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/1865_동철이의 일 분배.py" afterDir="false" />
+>>>>>>> fc6f9b30afb9be2d0e134f3f167b3303b087d048
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +53,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/201029/input_data" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/im/input_data" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+>>>>>>> fc6f9b30afb9be2d0e134f3f167b3303b087d048
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+<<<<<<< HEAD
       <recent name="C:\Users\aclass\Desktop\dj0401_algorithm\201029\input_data" />
       <recent name="C:\Users\aclass\Desktop\dj0401_algorithm\201027" />
+=======
+      <recent name="C:\Users\shin\Desktop\dj0401_algorithm\im\input_data" />
+>>>>>>> fc6f9b30afb9be2d0e134f3f167b3303b087d048
       <recent name="C:\Users\shin\Desktop\dj0401_algorithm\201020\input_data" />
       <recent name="C:\Users\shin\Desktop\dj0401_algorithm\201020" />
       <recent name="C:\Users\shin\Desktop\dj0401_algorithm\practice" />
@@ -62,8 +77,13 @@
       <recent name="C:\Users\shin\Desktop\dj0401_algorithm\200824" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.1244_SW 문제해결 응용_2일차_최대 상금">
     <configuration name="1244_SW 문제해결 응용_2일차_최대 상금" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+  <component name="RunManager" selected="Python.merge_sort">
+    <configuration name="가로세로합" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> fc6f9b30afb9be2d0e134f3f167b3303b087d048
       <module name="dj0401_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,11 +91,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/201029" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/201029/1244_SW 문제해결 응용_2일차_최대 상금.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/im" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/im/가로세로합.py" />
+>>>>>>> fc6f9b30afb9be2d0e134f3f167b3303b087d048
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +112,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="5187_전자카트" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="1247_최적경로" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> fc6f9b30afb9be2d0e134f3f167b3303b087d048
       <module name="dj0401_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +124,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/201029" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/201029/5187_전자카트.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/201102" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/201102/1247_최적경로.py" />
+>>>>>>> fc6f9b30afb9be2d0e134f3f167b3303b087d048
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +145,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="5201_컨테이너운반" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="1952_수영장" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> fc6f9b30afb9be2d0e134f3f167b3303b087d048
       <module name="dj0401_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +157,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/201029" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/201029/5201_컨테이너운반.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/201030" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/201030/1952_수영장.py" />
+>>>>>>> fc6f9b30afb9be2d0e134f3f167b3303b087d048
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +178,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="5202_화물도크" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="3분할1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> fc6f9b30afb9be2d0e134f3f167b3303b087d048
       <module name="dj0401_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +190,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/201029" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/201029/5202_화물도크.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems_kr" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems_kr/3분할1.py" />
+>>>>>>> fc6f9b30afb9be2d0e134f3f167b3303b087d048
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +211,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="5203_베이비진" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="merge_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> fc6f9b30afb9be2d0e134f3f167b3303b087d048
       <module name="dj0401_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +223,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/201029" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/201029/5203_베이비진.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/201102" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/201102/merge_sort.py" />
+>>>>>>> fc6f9b30afb9be2d0e134f3f167b3303b087d048
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,6 +245,7 @@
       <method v="2" />
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="Python.5187_전자카트" />
       <item itemvalue="Python.5203_베이비진" />
       <item itemvalue="Python.5201_컨테이너운반" />
@@ -182,6 +259,21 @@
         <item itemvalue="Python.5201_컨테이너운반" />
         <item itemvalue="Python.5203_베이비진" />
         <item itemvalue="Python.5187_전자카트" />
+=======
+      <item itemvalue="Python.1952_수영장" />
+      <item itemvalue="Python.가로세로합" />
+      <item itemvalue="Python.3분할1" />
+      <item itemvalue="Python.1247_최적경로" />
+      <item itemvalue="Python.merge_sort" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.merge_sort" />
+        <item itemvalue="Python.1247_최적경로" />
+        <item itemvalue="Python.3분할1" />
+        <item itemvalue="Python.1952_수영장" />
+        <item itemvalue="Python.가로세로합" />
+>>>>>>> fc6f9b30afb9be2d0e134f3f167b3303b087d048
       </list>
     </recent_temporary>
   </component>
@@ -217,6 +309,7 @@
     </state>
     <state x="-514" y="393" key="#com.intellij.fileTypes.FileTypeChooser/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1599899847408" />
     <state x="1197" y="320" key="#com.intellij.fileTypes.FileTypeChooser/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603067110582" />
+<<<<<<< HEAD
     <state width="772" height="279" key="GridCell.Tab.0.bottom" timestamp="1603961832760">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -245,6 +338,36 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="167" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603941547019" />
+=======
+    <state width="1345" height="220" key="GridCell.Tab.0.bottom" timestamp="1604303267918">
+      <screen x="-1366" y="169" width="1366" height="728" />
+    </state>
+    <state width="1345" height="220" key="GridCell.Tab.0.bottom/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1604303267918" />
+    <state width="938" height="287" key="GridCell.Tab.0.bottom/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604291833402" />
+    <state width="1345" height="220" key="GridCell.Tab.0.center" timestamp="1604303267918">
+      <screen x="-1366" y="169" width="1366" height="728" />
+    </state>
+    <state width="1345" height="220" key="GridCell.Tab.0.center/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1604303267918" />
+    <state width="938" height="287" key="GridCell.Tab.0.center/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604291833400" />
+    <state width="1345" height="220" key="GridCell.Tab.0.left" timestamp="1604303267918">
+      <screen x="-1366" y="169" width="1366" height="728" />
+    </state>
+    <state width="1345" height="220" key="GridCell.Tab.0.left/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1604303267918" />
+    <state width="938" height="287" key="GridCell.Tab.0.left/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604291833400" />
+    <state width="1345" height="220" key="GridCell.Tab.0.right" timestamp="1604303267918">
+      <screen x="-1366" y="169" width="1366" height="728" />
+    </state>
+    <state width="1345" height="220" key="GridCell.Tab.0.right/-1366.169.1366.728/0.0.1920.1040@-1366.169.1366.728" timestamp="1604303267918" />
+    <state width="938" height="287" key="GridCell.Tab.0.right/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604291833401" />
+    <state x="922" y="164" key="SettingsEditor" timestamp="1603878494637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="164" key="SettingsEditor/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603878494637" />
+    <state x="565" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604121886820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="565" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1366.169.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604121886820" />
+>>>>>>> fc6f9b30afb9be2d0e134f3f167b3303b087d048
     <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1603426158205">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

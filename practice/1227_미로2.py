@@ -14,7 +14,6 @@ for test_case in range(1, 11):
     arr = [list(map(int, input())) for _ in range(N)]
     visited = [[0] * N for _ in range(N)]
 
-
     x = 1
     y = 1
     visited[x][y] = 1
@@ -42,11 +41,6 @@ for test_case in range(1, 11):
         else:
             x, y = S.pop()
 
-
-
-
-    # for i in visited:
-    #     print(*i)
     result = 0
     if flag:
         result = 1

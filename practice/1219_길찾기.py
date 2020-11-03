@@ -54,22 +54,46 @@ sys.stdin = open("input_data/1219.txt")
 
 
 
-T = 10
+# T = 10
+#
+# for test_case in range(1, T+1):
+#
+#     _, E = map(int, input().split())
+#     temp = list(map(int, input().split()))
+#     N = 100
+#     # # index를 위해 1 크게
+#     # # 인접 행렬
+#     G = [[0] * (N) for _ in range(N)]
+#     # # 방문 체크
+#     visit =[0] * (N)
+#
+#     for i in range(0, E*2, 2):
+#         s, e = temp[i], temp[i+1]
+#         G[s][e] = 1
+#     S = [0]
+#     visit[0] = 1
+#     v = 0
+#     result = 0
+#     while S:
+#
+#         for w in range(0, N):
+#             if G[v][w] == 1 and visit[w] == 0:
+#
+#                 visit[w] = 1
+#                 S.append(v)
+#                 v = w
+#                 if v == 99:
+#                     result = 1
+#
+#                 break
+#         else:
+#             v = S.pop()
+#
+#
+#     print('#{} {}'.format(test_case, result))
 
-for test_case in range(1, T+1):
 
-    _, E = map(int, input().split())
-    temp = list(map(int, input().split()))
-    N = 100
-    # # index를 위해 1 크게
-    # # 인접 행렬
-    G = [[0] * (N) for _ in range(N)]
-    # # 방문 체크
-    visit =[0] * (N)
 
-    for i in range(0, E*2, 2):
-        s, e = temp[i], temp[i+1]
-        G[s][e] = 1
 
     # 시작점을 방문하고 스택에 push
     # S = [0]
@@ -99,7 +123,18 @@ for test_case in range(1, T+1):
     # print('#{} {}'.format(test_case, result))
 
 
-# 1. 스택에 첫 노드를 넣고 방문기록에도 남기고 내 위치도 옮김
+T = 10
+for test_case in range(1, T+1):
+
+    _, E = map(int, input().split())
+    temp = list(map(int, input().split()))
+    N = 100
+    G = [[0] * (N) for _ in range(N)]
+    visit =[0] * (N)
+
+    for i in range(0, E*2, 2):
+        s, e = temp[i], temp[i+1]
+        G[s][e] = 1
     S = [0]
     visit[0] = 1
     v = 0
@@ -121,8 +156,6 @@ for test_case in range(1, T+1):
 
 
     print('#{} {}'.format(test_case, result))
-
-
 
 
 
