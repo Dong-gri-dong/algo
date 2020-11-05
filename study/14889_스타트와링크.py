@@ -15,20 +15,18 @@ def score(x):
 
 def soccer(k, start, link):
     global result
-
     if len(start)> N//2 or len(link) > N//2:
         return
-    if k == N:
-        if start in check:
-            return
-        else:
-            check.append(start)
-            temp = abs(score(start)-score(link))
-            if result >= temp:
-                result = temp
-            return
-    else:
 
+    if k == N:
+        #start = sorted(start)
+        #link = sorted(link)
+
+        temp = abs(score(start)-score(link))
+        if result >= temp:
+            result = temp
+        return
+    else:
         soccer(k + 1, start + [k], link)
         soccer(k + 1, start, link + [k])
 
